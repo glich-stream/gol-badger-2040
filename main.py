@@ -6,7 +6,7 @@ WIDTH        = 45
 HEIGHT       = 12
 CELL         = '+'
 EMPTY_CELL   = ' '
-DEBUG        = True
+DEBUG        = False
 RUNNING      = True
 REFRESH_RATE = 0.5
 
