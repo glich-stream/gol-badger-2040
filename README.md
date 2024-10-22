@@ -1,4 +1,4 @@
-# Game of Life on the Badger 2040
+# Game of Life on the Badger 2350
 
 > [!NOTE]  
 > Watch the video below for more information on how to use this repo
